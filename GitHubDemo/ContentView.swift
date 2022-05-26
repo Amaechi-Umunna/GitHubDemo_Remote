@@ -9,7 +9,7 @@ import SwiftUI
 
 
 
-struct ContentView: View {
+struct MainView: View {
     
     //MARK: Some changes
     
@@ -21,6 +21,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        MainView()
     }
 }
