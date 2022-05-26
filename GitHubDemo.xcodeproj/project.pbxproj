@@ -11,6 +11,7 @@
 		584DEF02283F4459004CC5EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584DEF01283F4459004CC5EC /* ContentView.swift */; };
 		584DEF04283F445A004CC5EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 584DEF03283F445A004CC5EC /* Assets.xcassets */; };
 		584DEF07283F445A004CC5EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 584DEF06283F445A004CC5EC /* Preview Assets.xcassets */; };
+		584DEF0E283F4669004CC5EC /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584DEF0D283F4669004CC5EC /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		584DEF01283F4459004CC5EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		584DEF03283F445A004CC5EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		584DEF06283F445A004CC5EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		584DEF0D283F4669004CC5EC /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				584DEEFF283F4459004CC5EC /* GitHubDemoApp.swift */,
 				584DEF01283F4459004CC5EC /* ContentView.swift */,
+				584DEF0D283F4669004CC5EC /* SecondView.swift */,
 				584DEF03283F445A004CC5EC /* Assets.xcassets */,
 				584DEF05283F445A004CC5EC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				584DEF0E283F4669004CC5EC /* SecondView.swift in Sources */,
 				584DEF02283F4459004CC5EC /* ContentView.swift in Sources */,
 				584DEF00283F4459004CC5EC /* GitHubDemoApp.swift in Sources */,
 			);
