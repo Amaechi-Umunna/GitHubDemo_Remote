@@ -14,8 +14,14 @@ struct MainView: View {
     //MARK: Some changes
     
     var body: some View {
-        Text("This is a drill")
-            .padding()
+        
+        ZStack {
+            
+            Color.red.ignoresSafeArea(.all)
+            
+            Text("This is a drill")
+                .padding()
+        }
     }
 }
 
